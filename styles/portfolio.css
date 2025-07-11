@@ -83,3 +83,77 @@ p{
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 }
+.section-title{
+  font-weight: bold;
+  font-size: 35px;
+  color: #181818;
+}
+.section-descrieption{
+  font-size: 18px;
+  color: #757575;
+}
+
+.secendary-bg{
+  background-color: #FFF8F3;
+}
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top:130px ;
+}
+main section{
+   margin-top:130px ;
+   margin-bottom: 130px;
+}
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.about-items{
+  display: flex;
+  justify-content: space-around;
+}
+.item-description{
+  font-weight: bold;
+  font-size: 20px;
+}
+.item-title{
+  color:#757575;
+}
+.text-align{
+  text-align: center;
+}
+.skil-container{
+  display: flex;
+  gap: 24px;
+}
+.skil{
+  padding: 30px;
+  box-shadow: 0px 6px  50px 0px #1E1E1E;
+  border-radius: 5px;
+}
+.summery{
+  display: flex;
+  gap: 24px;
+}
+hr{
+  text-align: center;
+}
+.download{
+  text-align: center;
+}
+.summery-2{
+  text-align: center;
+}
+footer{
+  padding: 130px 230px;
+  display: flex;
+}
+.footer-colum{
+  width: 50%;
+  
+}
+form input{
+  display: block;
+}
